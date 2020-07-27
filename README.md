@@ -22,17 +22,15 @@ AIS ведет треккинг крупных морских судов в ре
 Сами данные будут в некой UN Global Platform, но что это по сути (источник данных или система для проведения расчетов) - не очень понятно. Датское статистическое агентство раскрывает исторические данные AIS по своей акватории, но я их еще не загружал, дачный
 интернет такое на выдержит [4] 
 
-- [1]: https://unstats.un.org/wiki/display/AIS/AIS+Handbook+Outline
-- [2]: https://globalfishingwatch.org/data-blog/example-of-ais-data-for-one-vessel-nov-1-2016/
-- [3]: https://unstats.un.org/bigdata/events/2020/ais-hackathon/ais-hackathon-concept-note_final_v2.pdf
-- [4]: ftp://ftp.ais.dk/ais_data/
-- 
+[1]: https://unstats.un.org/wiki/display/AIS/AIS+Handbook+Outline
+[2]: https://globalfishingwatch.org/data-blog/example-of-ais-data-for-one-vessel-nov-1-2016/
+[3]: https://unstats.un.org/bigdata/events/2020/ais-hackathon/ais-hackathon-concept-note_final_v2.pdf
+[4]: ftp://ftp.ais.dk/ais_data/
 
 ## Что вообще с этим надо сделать
 
 Организаторы хакатона оставляют за участниками сформулировать исследовательские вопросы, их основные задачи - популяризация работы 
 с большими данными в сфере статистики, и расширение коллабораций между исследователями. Это не соревнование на точность прогнозирования и не заказ на разработку какого-то конкретного приложения. 
-
 
 ## Таймлайн
 
@@ -92,5 +90,3 @@ python, pandas/vaex, если датасет очень большой - spark. 
 ## To do next
 
 Список гипотез и применений данных в посветке ООН (на английском, для заявки).
-
-

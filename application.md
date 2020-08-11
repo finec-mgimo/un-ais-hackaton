@@ -6,12 +6,9 @@ Who we are
 
 We are a collaborative team, anchored at MGIMO Finance and Economics Department in Odintsovo, Russia. The team is led by Evgeniy Pogrebnyak, FinEc-MGIMO dean, formerly a leader for macroeconomic analysis at a national development bank - VEB. 
 
-- Sergey Korolev is a young data scientist at Sberbank St Petersburg and a member of ‘Ostrov-2035’ learning network. 
-- Also from St Petersburg – Maria Markueva, a risk management and data modelling professional, who will be teaching at European University in St Petersburg starting this fall. Maria is qualified as a yacht crew member and passionate about sailing in the Baltic Sea. She is a hands-on user of AIS via MarineTraffic.
+Sergey Korolev is a young data scientist at Sberbank St Petersburg and a member of ‘Ostrov-2035’ learning network. Also from St Petersburg – Maria Markueva, a risk management and data modelling professional, who will be teaching at European University in St Petersburg starting this fall. Maria is qualified as a yacht crew member and passionate about sailing in the Baltic Sea. She is a hands-on user of AIS via MarineTraffic.
 
-Two MGIMO students volunteered for the project: 
-– Timur Alikhodjaev, from MGIMO Tashkent campus (Uzbekistan) 
-- Artem Reva, from our linguistics bachelor program.
+Two MGIMO students volunteered for the project: Timur Alikhodjaev, from MGIMO Tashkent campus (Uzbekistan), and Artem Reva, from our linguistics bachelor program.
 
 Research proposals
 ------------------
